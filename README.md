@@ -1,2 +1,3 @@
-# bandit-writeup
-OverTheWire Bandit Writeup Level 0-15 (Linux &amp; Cybersecurity Learning Journey)
+# OverTheWire Bandit Writeup (Level 0–15)
+
+Learning Linux & Cybersecurity through OverTheWire challenges.
